@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Merriweather+Sans:wght@700&family=Raleway:wght@300&family=Source+Code+Pro:wght@300&display=swap");
+
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Baloo Bhai 2', cursive; 
+font-family: 'Merriweather Sans', sans-serif; */
+/* universal selector and body */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+body {
+  background-color: rgb(192, 183, 183);
+  max-height: 100vh;
+}
+/* first interface */
+.first-interface {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  row-gap: 200px;
+  font-family: "Merriweather Sans", sans-serif;
+  /* visibility: hidden; */
+}
+.first-content img {
+  margin-top: 100px;
+  width: 280px;
+  border-radius: 50%;
+  height: 280px;
+  border: 5px solid transparent;
+  padding: 3px;
+  /* transition: border-color 0.3s ease-in-out; */
+  animation: borderAnimation 8s infinite alternate;
+}
+@keyframes borderAnimation {
+  0% {
+    border-color: #ff0000; /* Red */
+  }
+  25% {
+    border-color: #00ff00; /* Green */
+  }
+  50% {
+    border-color: #008081; /* Green */
+  }
+  75% {
+    border-color: rgb(255, 0, 191); /* Green */
+  }
+  100% {
+    border-color: black; /* Green */
+  }
+}
+.first-content h2 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 2rem;
+}
+.main-btn {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  padding: 0.8rem;
+  font-size: 22px;
+  font-family: "Merriweather Sans", sans-serif;
+  border-radius: 6px;
+  outline: none;
+  border: 2px solid black;
+  letter-spacing: 2px;
+}
+/* content  */
+.content {
+  padding: 28px;
+  width: 85%;
+  display: grid;
+  grid-template-columns: repeat(2, 40%);
+  grid-gap: 28px 42px;
+}
+.content-button {
+  width: 120px;
+  height: 120px;
+  font-size: 20px;
+  font-family: "Baloo Bhai 2", cursive;
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  border-radius: 50%;
+  box-shadow: 10px 10px 10px rgba(53, 53, 53, 0.4);
+  /* margin-right: 26px; */
+}
+.content-center {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+}
+.content-center::before,
+.history::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url(wallpaper.jpeg) center/cover;
+  opacity: 0.85;
+  filter: blur(3px);
+  filter: brightness(40%);
+  z-index: -999;
+}
+/* history */
+.history {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  visibility: hidden;
+}
+
+.custom-button {
+  display: grid;
+  place-items: center;
+  margin: 88px 0px -60px 55px;
+}
+
+/* quiz-content */
+.quiz-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  padding: 20px;
+  font-family: "Baloo Bhai 2", cursive;
+  visibility: hidden;
+}
+.question {
+  color: white;
+  font-size: 18px;
+}
+.question-btn {
+  display: flex;
+  flex-direction: column;
+}
+.options {
+  font-family: "Baloo Bhai 2", cursive;
+  text-align: left;
+  padding: 10px 6px;
+  font-size: 20px;
+  background-color: rgb(219, 217, 213);
+  outline: none;
+  border: 1px solid black;
+}
+#slide-right {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  width: 80px;
+  height: 80px;
+  content: "";
+  background-color: rgb(255, 196, 0);
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+}
+.question-number {
+  font-family: "Baloo Bhai 2", cursive;
+  position: absolute;
+  bottom: 45px;
+  left: 30px;
+  font-size: 40px;
+  color: white;
+  opacity: 0.6;
+}
+/* result */
+.result {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  place-items: center;
+  font-family: "Baloo Bhai 2", cursive;
+  visibility: hidden;
+  padding: 50px;
+}
+.score {
+  font-size: 2rem;
+}
+.percentage {
+  font-size: 8rem;
+}
+/* visible */
+.active {
+  visibility: visible;
+}

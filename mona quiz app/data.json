@@ -1,0 +1,1578 @@
+{
+  "quiz": {
+    "indianhistory": {
+      "ancient": {
+        "quizTitle": "Ancient History Quiz",
+        "questions": [
+          {
+            "questionText": "Who was the founder of the Mauryan Empire in ancient India?",
+            "answerOption": [
+              "Ashoka",
+              "Chandragupta Maurya",
+              "Harsha",
+              "Samudragupta"
+            ],
+            "correctAnswer": "Chandragupta Maurya"
+          },
+          {
+            "questionText": "The Indus Valley Civilization is also known by which other name?",
+            "answerOption": [
+              "Vedic Civilization",
+              "Harappan Civilization",
+              "Aryan Civilization",
+              "Gupta Civilization"
+            ],
+            "correctAnswer": "Harappan Civilization"
+          },
+          {
+            "questionText": "Which ancient Indian emperor is known for his conversion to Buddhism and promotion of the religion?",
+            "answerOption": ["Ashoka", "Kumar Gupta II", "Harsha", "Kanishka"],
+            "correctAnswer": "Ashoka"
+          },
+          {
+            "questionText": "Which ancient Indian text is considered the earliest known treatise on statecraft and political philosophy?",
+            "answerOption": [
+              "Arthashastra",
+              "Bhagavad Gita",
+              "Ramayana",
+              "Mahabharata"
+            ],
+            "correctAnswer": "Arthashastra"
+          },
+          {
+            "questionText": "What is the sacred text of Zoroastrianism that includes references to ancient India?",
+            "answerOption": ["Vedas", "Upanishads", "Avesta", "Tripitaka"],
+            "correctAnswer": "Avesta"
+          }
+        ]
+      },
+      "medieval": {
+        "quizTitle": "medieval History Quiz",
+        "questions": [
+          {
+            "questionText": "Who was the founder of the Delhi Sultanate in India?",
+            "answerOption": [
+              " Alauddin Khilji",
+              " Babur",
+              "Qutb-ud-din Aibak",
+              " Sher Shah Suri"
+            ],
+            "correctAnswer": "Qutb-ud-din Aibak"
+          },
+          {
+            "questionText": "The Vijayanagara Empire was located in which part of India?",
+            "answerOption": [
+              "North India",
+              "South India",
+              "East India",
+              "West India"
+            ],
+            "correctAnswer": "South India"
+          },
+          {
+            "questionText": "Which Mughal emperor is known for his policy of religious tolerance and the Din-i Ilahi?",
+            "answerOption": ["Akbar", "Jahangir", "Aurangzeb", "Shah Jahan"],
+            "correctAnswer": "Akbar"
+          },
+          {
+            "questionText": "The Bhakti and Sufi movements in medieval India were primarily associated with:",
+            "answerOption": [
+              "Political reforms",
+              "Economic development",
+              "Religious and social reform",
+              "Military conquests"
+            ],
+            "correctAnswer": "Religious and social reform"
+          },
+          {
+            "questionText": "The famous literary work Akbar Nama was written by:",
+            "answerOption": ["Mir Taqi Mir", "Tulsidas", "Abul Fazl", "Kabir"],
+            "correctAnswer": "Abul Fazl"
+          }
+        ]
+      },
+
+      "modern": {
+        "quizTitle": "Modern History Quiz",
+        "questions": [
+          {
+            "questionText": "Who was the first Governor-General of India?",
+            "answerOption": [
+              "Lord Curzon",
+              "Lord Dalhousie",
+              "Lord William Bentinck",
+              "Lord Warren Hastings"
+            ],
+            "correctAnswer": "Lord Warren Hastings"
+          },
+          {
+            "questionText": "The Jallianwala Bagh Massacre occurred in which city of India?",
+            "answerOption": ["Amritsar", "Lahore", "Delhi", "Kolkata"],
+            "correctAnswer": "Amritsar"
+          },
+          {
+            "questionText": "Who was the first woman Prime Minister of India?",
+            "answerOption": [
+              "Sonia Gandhi",
+              "Indira Gandhi",
+              "Pratibha Patil",
+              "Sushma Swaraj"
+            ],
+            "correctAnswer": "Indira Gandhi"
+          },
+          {
+            "questionText": "The Quit India Movement was launched in which year?",
+            "answerOption": ["1942", "1930", "1947", "1929"],
+            "correctAnswer": "1942"
+          },
+          {
+            "questionText": "The Indian National Congress (INC) was founded in which year?",
+            "answerOption": ["1905", "1885", "1947", "1857"],
+            "correctAnswer": "1885"
+          }
+        ]
+      }
+    },
+    "indiangeography": {
+      "physical1": {
+        "questions": [
+          {
+            "questionText": "What is the shape of the earth",
+            "answerOption": [
+              "Perfect Hemisphphere",
+              "Mostly flat",
+              "Perfect Sphere",
+              "Oblate Sphere"
+            ],
+            "correctAnswer": "Oblate Sphere"
+          },
+          {
+            "questionText": "Name the point in the orbit of the Moon at which it is farthest from the Earth?",
+            "answerOption": ["Apogee", "Perigee", "Solstice", "Equinox"],
+            "correctAnswer": "Apogee"
+          },
+          {
+            "questionText": "Lunar Eclipse occurs when",
+            "answerOption": [
+              "Moon comes between Earth and Sun",
+              "Earth comes between Sun and Moon",
+              "Sun comes between Earth and Moon",
+              "Sun and Moon coincide"
+            ],
+            "correctAnswer": "Earth comes between Sun and Moon"
+          },
+          {
+            "questionText": "When the Moon size is half of the full Moon, the angle between the Sun, the Earth and Moon is",
+            "answerOption": ["45 deg", "90 deg", "180 deg", "270 deg"],
+            "correctAnswer": "90 deg"
+          },
+          {
+            "questionText": "When the earth is farthest from the Sun then that phenomenan is known as",
+            "answerOption": ["Aphelion", "Perihelion", "Solstice", "Equinox"],
+            "correctAnswer": "Aphelion"
+          },
+          {
+            "questionText": "The earth is farthest from the Sun on",
+            "answerOption": [
+              "3rd January",
+              "4th July",
+              "22nd March",
+              "21st September"
+            ],
+            "correctAnswer": "4th July"
+          },
+          {
+            "questionText": "Perihelion occuers every year on",
+            "answerOption": [
+              "1st Jnuary",
+              "2nd January",
+              "3rd January",
+              "4th January"
+            ],
+            "correctAnswer": "3rd January"
+          },
+          {
+            "questionText": "When the Earth is closest to the Sun then",
+            "answerOption": [
+              "it is summer in the Norther hemisphere as well as Southern hemisphere",
+              "it is winter in the Norther hemisphere as well as Southern hemisphere",
+              "it is winter in the Norther hemisphere summer in Southern hemisphere",
+              "it is summer in the Norther hemisphere and winter  Southern hemisphere"
+            ],
+            "correctAnswer": "it is winter in the Norther hemisphere summer in Southern hemisphere"
+          },
+          {
+            "questionText": "28.38° N and 77.12° E are the respective latitude and longitude of which one of the following places?",
+            "answerOption": ["Mumbai", "Jaipur", "Delhi", "Bangalore"],
+            "correctAnswer": "Delhi"
+          },
+          {
+            "questionText": "Which one of the following has geographical position of 0 deg latitude and 0 deg longitude",
+            "answerOption": [
+              "In the South Atlantic Ocean",
+              "In the Mediterranean Sea",
+              "In Ghana, a West African country",
+              "At Greenwich Observantory in English"
+            ],
+            "correctAnswer": "In the South Atlantic Ocean"
+          },
+          {
+            "questionText": "Which one of the following longitudes along with the Prime Meridian forms a great circle on the globe?",
+            "answerOption": ["0 deg", "90 deg E", "180 deg W", "180 deg"],
+            "correctAnswer": "180 deg"
+          },
+          {
+            "questionText": "When there is noon at IST meridian, people at another place of the Earth taking their 6 O'clock morning tea.The longitude of the place is?",
+            "answerOption": [
+              "17 deg 30 min East",
+              "7 deg 30 min West",
+              "172 deg 30 min East",
+              "7 deg 30 min West"
+            ],
+            "correctAnswer": "7 deg 30 min West"
+          },
+          {
+            "questionText": "If a news broadcast from London at 1:45 pm on Monday,at what time and on what day it will be heard at Dhaka (90 deg E)?",
+            "answerOption": [
+              "7 45 PM on Monday",
+              "7 45 AM on Monday",
+              "7 45 PM on Tuesday",
+              "7 45 AM on Sunday"
+            ],
+            "correctAnswer": "7 45 PM on Monday"
+          },
+          {
+            "questionText": "Rocks resulting from the crystallisation of magma are",
+            "answerOption": [
+              "igneous",
+              "metamorphic",
+              "sedimentary",
+              "migmatities"
+            ],
+            "correctAnswer": "igneous"
+          },
+          {
+            "questionText": "Which one of the following is not an igneous rock?",
+            "answerOption": ["Gabbro", "Granite", "Dolomite", "Basalt"],
+            "correctAnswer": "Dolomite"
+          },
+          {
+            "questionText": "Which one of the following is not an agent of metamorphism",
+            "answerOption": [
+              "Heat",
+              "Compression",
+              "Decomposition",
+              "Solution"
+            ],
+            "correctAnswer": "Decomposition"
+          },
+          {
+            "questionText": "Which one of the following is a major plate?",
+            "answerOption": [
+              "Pacific Plate",
+              "Cocos Plate",
+              "Arabian Plate",
+              "Philippine Plate"
+            ],
+            "correctAnswer": "Pacific Plate"
+          },
+          {
+            "questionText": "Cocos Plate lies between",
+            "answerOption": [
+              "Central America and Pacific Plate",
+              "South America and Pacfic Plate",
+              "Red sea and Persian Gull",
+              "Asiatic Plate and Pacific Plate"
+            ],
+            "correctAnswer": "Central America and Pacific Plate"
+          },
+          {
+            "questionText": "Which of the following plate is divergent to Nazia plate",
+            "answerOption": [
+              "Atlantic Plate",
+              "Pacific Plate",
+              "Eurasian Plate",
+              "Antartica Plate"
+            ],
+            "correctAnswer": "Eurasian Plate"
+          },
+          {
+            "questionText": "The Lithospheric plates float above which of the following?",
+            "answerOption": ["Core", "Asthenosphere", "Crust", "Cryosphere"],
+            "correctAnswer": "Asthenosphere"
+          },
+          {
+            "questionText": "Which one of the following is known as Sea of Mountain",
+            "answerOption": [
+              "Japan",
+              "British Columbia",
+              "West Coast of South America",
+              "South-East Asia"
+            ],
+            "correctAnswer": "British Columbia"
+          },
+          {
+            "questionText": "Which one of the following mountains lies in between Caspian Sea and Black Sea",
+            "answerOption": ["Caucasus", "Carpathians", "Apennine", "Elburz"],
+            "correctAnswer": "Caucasus"
+          },
+          {
+            "questionText": "The Pennines (Europe), the Appalachians (America) and the Aravallis(India) are examples of",
+            "answerOption": [
+              "Young Mountain",
+              "Old Mountain",
+              "Block Mountains",
+              "Fold Mountains"
+            ],
+            "correctAnswer": "Old Mountain"
+          },
+          {
+            "questionText": "Which is known as Roof of the world",
+            "answerOption": ["Aravali", "Satpura", "Pamir", "Myanmar"],
+            "correctAnswer": "Pamir"
+          }
+        ]
+      },
+      "world": {
+        "questions": [
+          {
+            "questionText": "What is the Earth's largest ocean?",
+            "answerOption": [
+              "Atlantic Ocean",
+              "Indian Ocean",
+              "Arctic Ocean",
+              "Pacific Ocean"
+            ],
+            "correctAnswer": "Pacific Ocean"
+          },
+          {
+            "questionText": "Which of the following is the highest mountain in the world?",
+            "answerOption": [
+              "Mount Kilimanjaro",
+              "Mount Everest",
+              "Mount McKinley",
+              "Mount Fuji"
+            ],
+            "correctAnswer": "Mount Everest"
+          },
+          {
+            "questionText": "What is the capital of Australia?",
+            "answerOption": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+            "correctAnswer": "Canberra"
+          },
+          {
+            "questionText": "Which river is the longest in the world?",
+            "answerOption": [
+              "Amazon River",
+              "Nile River",
+              "Mississippi River",
+              "Yangtze River"
+            ],
+            "correctAnswer": "Nile River"
+          },
+          {
+            "questionText": "What is the largest desert in the world?",
+            "answerOption": [
+              "Gobi Desert",
+              "Atacama Desert",
+              "Sahara Desert",
+              "Kalahari Desert"
+            ],
+            "correctAnswer": "Sahara Desert"
+          },
+          {
+            "questionText": "Which layer of the Earth's atmosphere is closest to the surface?",
+            "answerOption": [
+              "Troposphere",
+              "Stratosphere",
+              "Mesosphere",
+              "Thermosphere"
+            ],
+            "correctAnswer": "Troposphere"
+          },
+          {
+            "questionText": "Which continent is known as the 'Land Down Under'?",
+            "answerOption": ["Europe", "South America", "Africa", "Australia"],
+            "correctAnswer": "Australia"
+          },
+          {
+            "questionText": "What is the largest freshwater lake in North America?",
+            "answerOption": [
+              "Lake Superior",
+              "Lake Huron",
+              "Lake Michigan",
+              "Lake Erie"
+            ],
+            "correctAnswer": "Lake Superior"
+          },
+          {
+            "questionText": "Which of the following is a cold ocean current?",
+            "answerOption": [
+              "North Atlantic Drift",
+              "California Current",
+              "Kuroshio Current",
+              "Benguela Current"
+            ],
+            "correctAnswer": "California Current"
+          },
+          {
+            "questionText": "What is the process of the Earth's plates moving and interacting called?",
+            "answerOption": [
+              "Erosion",
+              "Weathering",
+              "Tectonics",
+              "Glaciation"
+            ],
+            "correctAnswer": "Tectonics"
+          }
+        ]
+      },
+      "india": {
+        "questions": [
+          {
+            "questionText": "Which river is often referred to as the 'Ganga of the South'?",
+            "answerOption": ["Yamuna", "Krishna", "Godavari", "Brahmaputra"],
+            "correctAnswer": "Godavari"
+          },
+          {
+            "questionText": "What is the highest mountain peak in India?",
+            "answerOption": [
+              "K2",
+              "Mount Everest",
+              "Kangchenjunga",
+              "Nanda Devi"
+            ],
+            "correctAnswer": "Kangchenjunga"
+          },
+          {
+            "questionText": "Which state in India is known as the 'Land of Five Rivers'?",
+            "answerOption": ["Punjab", "Haryana", "Uttar Pradesh", "Gujarat"],
+            "correctAnswer": "Punjab"
+          },
+          {
+            "questionText": "Which of the following is the largest freshwater lake in India?",
+            "answerOption": [
+              "Vembanad",
+              "Dal Lake",
+              "Chilika Lake",
+              "Wular Lake"
+            ],
+            "correctAnswer": "Vembanad"
+          },
+          {
+            "questionText": "What is the southernmost point of the Indian mainland called?",
+            "answerOption": [
+              "Kanyakumari",
+              "Cape Comorin",
+              "Rameswaram",
+              "Kochi"
+            ],
+            "correctAnswer": "Kanyakumari"
+          },
+          {
+            "questionText": "Which Indian state is known as the 'Spice Garden of India'?",
+            "answerOption": [
+              "Kerala",
+              "Karnataka",
+              "Andhra Pradesh",
+              "Tamil Nadu"
+            ],
+            "correctAnswer": "Kerala"
+          },
+          {
+            "questionText": "What is the longest river in India?",
+            "answerOption": ["Ganges", "Yamuna", "Brahmaputra", "Indus"],
+            "correctAnswer": "Ganges"
+          },
+          {
+            "questionText": "Which desert in India is known as the 'Great Indian Desert'?",
+            "answerOption": [
+              "Thar Desert",
+              "Sahara Desert",
+              "Kutch Desert",
+              "Rann of Kutch"
+            ],
+            "correctAnswer": "Thar Desert"
+          },
+          {
+            "questionText": "Which Indian state is the leading producer of tea?",
+            "answerOption": ["Assam", "Darjeeling", "Kerala", "Tamil Nadu"],
+            "correctAnswer": "Assam"
+          },
+          {
+            "questionText": "What is the highest peak in the Western Ghats of India?",
+            "answerOption": [
+              "Anamudi",
+              "Doddabetta",
+              "Mullayanagiri",
+              "Nilgiri Hills"
+            ],
+            "correctAnswer": "Anamudi"
+          },
+          {
+            "questionText": "Which river flows through the Sundarbans Delta, the largest mangrove forest in the world?",
+            "answerOption": ["Yamuna", "Brahmaputra", "Godavari", "Ganges"],
+            "correctAnswer": "Ganges"
+          },
+          {
+            "questionText": "In which state is the Keoladeo National Park, a UNESCO World Heritage Site known for its avian diversity, located?",
+            "answerOption": [
+              "Rajasthan",
+              "Gujarat",
+              "Madhya Pradesh",
+              "Uttar Pradesh"
+            ],
+            "correctAnswer": "Rajasthan"
+          },
+          {
+            "questionText": "Which Indian state is famous for its backwaters and houseboat tourism?",
+            "answerOption": ["Kerala", "Goa", "West Bengal", "Tamil Nadu"],
+            "correctAnswer": "Kerala"
+          },
+          {
+            "questionText": "What is the largest brackish water lake in India?",
+            "answerOption": [
+              "Chilika Lake",
+              "Vembanad",
+              "Dal Lake",
+              "Pulicat Lake"
+            ],
+            "correctAnswer": "Chilika Lake"
+          },
+          {
+            "questionText": "Which mountain range separates the Indian subcontinent from the Tibetan Plateau?",
+            "answerOption": [
+              "Western Ghats",
+              "Himalayas",
+              "Eastern Ghats",
+              "Aravalli Range"
+            ],
+            "correctAnswer": "Himalayas"
+          },
+          {
+            "questionText": "Which state in India is known for its production of saffron, often called 'Kashmiri Saffron'?",
+            "answerOption": [
+              "Jammu and Kashmir",
+              "Himachal Pradesh",
+              "Uttarakhand",
+              "Arunachal Pradesh"
+            ],
+            "correctAnswer": "Jammu and Kashmir"
+          },
+          {
+            "questionText": "What is the southernmost point of the Indian subcontinent?",
+            "answerOption": [
+              "Cape Comorin",
+              "Rameswaram",
+              "Kanyakumari",
+              "Kochi"
+            ],
+            "correctAnswer": "Cape Comorin"
+          },
+          {
+            "questionText": "Which river flows through the Sundarbans Delta, the largest mangrove forest in the world?",
+            "answerOption": ["Yamuna", "Brahmaputra", "Godavari", "Ganges"],
+            "correctAnswer": "Ganges"
+          },
+          {
+            "questionText": "Which state in India is known as the 'Land of Five Rivers'?",
+            "answerOption": ["Punjab", "Haryana", "Uttar Pradesh", "Gujarat"],
+            "correctAnswer": "Punjab"
+          },
+          {
+            "questionText": "Which of the following is not a union territory of India?",
+            "answerOption": [
+              "Lakshadweep",
+              "Puducherry",
+              "Daman and Diu",
+              "Sikkim"
+            ],
+            "correctAnswer": "Sikkim"
+          },
+          {
+            "questionText": "Which Indian state is known for the Valley of Flowers National Park, a UNESCO World Heritage Site?",
+            "answerOption": [
+              "Uttarakhand",
+              "Himachal Pradesh",
+              "Arunachal Pradesh",
+              "Jharkhand"
+            ],
+            "correctAnswer": "Uttarakhand"
+          },
+          {
+            "questionText": "What is the second-highest peak in the Western Ghats of India?",
+            "answerOption": [
+              "Doddabetta",
+              "Mullayanagiri",
+              "Nilgiri Hills",
+              "Anamudi"
+            ],
+            "correctAnswer": "Doddabetta"
+          },
+          {
+            "questionText": "Which river is known as the 'Sorrow of Bengal' due to its frequent flooding?",
+            "answerOption": ["Krishna", "Yamuna", "Ganges", "Brahmaputra"],
+            "correctAnswer": "Brahmaputra"
+          },
+          {
+            "questionText": "Which Indian state is known as the 'Land of Forests'?",
+            "answerOption": [
+              "Assam",
+              "Madhya Pradesh",
+              "Chhattisgarh",
+              "Karnataka"
+            ],
+            "correctAnswer": "Madhya Pradesh"
+          },
+          {
+            "questionText": "What is the highest peak in the Nilgiri Hills of southern India?",
+            "answerOption": [
+              "Doddabetta",
+              "Anamudi",
+              "Mullayanagiri",
+              "Nilambur"
+            ],
+            "correctAnswer": "Doddabetta"
+          },
+          {
+            "questionText": "Which city in India is situated on the banks of the river Sabarmati?",
+            "answerOption": ["Kolkata", "Mumbai", "Delhi", "Ahmedabad"],
+            "correctAnswer": "Ahmedabad"
+          },
+          {
+            "questionText": "What is the name of the pass that connects Leh to Manali and is one of the highest motorable passes in the world?",
+            "answerOption": [
+              "Nathu La Pass",
+              "Khardung La Pass",
+              "Rohtang Pass",
+              "Zoji La Pass"
+            ],
+            "correctAnswer": "Rohtang Pass"
+          },
+          {
+            "questionText": "Which Indian state is known as the 'Land of Red Rivers and Blue Hills'?",
+            "answerOption": [
+              "Nagaland",
+              "Mizoram",
+              "Manipur",
+              "Arunachal Pradesh"
+            ],
+            "correctAnswer": "Mizoram"
+          },
+          {
+            "questionText": "Which river is known as the 'Lifeline of Delhi'?",
+            "answerOption": ["Yamuna", "Ganges", "Brahmaputra", "Godavari"],
+            "correctAnswer": "Yamuna"
+          }
+        ]
+      },
+      "assam": {
+        "questions": [
+          {
+            "questionText": "Which river is the lifeline of Assam and is known for its annual floods?",
+            "answerOption": ["Brahmaputra", "Ganges", "Yamuna", "Godavari"],
+            "correctAnswer": "Brahmaputra"
+          },
+          {
+            "questionText": "What is the largest river island in the world, located in Assam?",
+            "answerOption": [
+              "Majuli",
+              "Manipur",
+              "Barren Island",
+              "Neil Island"
+            ],
+            "correctAnswer": "Majuli"
+          },
+          {
+            "questionText": "Which national park in Assam is famous for its one-horned rhinoceros?",
+            "answerOption": [
+              "Kaziranga National Park",
+              "Manas National Park",
+              "Nameri National Park",
+              "Orang National Park"
+            ],
+            "correctAnswer": "Kaziranga National Park"
+          },
+          {
+            "questionText": "What is the capital city of Assam?",
+            "answerOption": ["Guwahati", "Dispur", "Jorhat", "Silchar"],
+            "correctAnswer": "Dispur"
+          },
+          {
+            "questionText": "Which hill station in Assam is known for its tea gardens and cool climate?",
+            "answerOption": ["Haflong", "Shillong", "Kohima", "Tawang"],
+            "correctAnswer": "Haflong"
+          },
+          {
+            "questionText": "Which wildlife sanctuary in Assam is famous for its population of the Bengal tiger?",
+            "answerOption": [
+              "Pobitora Wildlife Sanctuary",
+              "Dibru-Saikhowa Wildlife Sanctuary",
+              "Nameri Wildlife Sanctuary",
+              "Laokhowa Wildlife Sanctuary"
+            ],
+            "correctAnswer": "Pobitora Wildlife Sanctuary"
+          },
+          {
+            "questionText": "What is the name of the famous tea produced in Assam?",
+            "answerOption": [
+              "Darjeeling Tea",
+              "Nilgiri Tea",
+              "Assam Tea",
+              "Oolong Tea"
+            ],
+            "correctAnswer": "Assam Tea"
+          },
+          {
+            "questionText": "Which river in Assam is known for its golden sand and is a tributary of the Brahmaputra?",
+            "answerOption": [
+              "Saraswati River",
+              "Kameng River",
+              "Manas River",
+              "Subansiri River"
+            ],
+            "correctAnswer": "Subansiri River"
+          },
+          {
+            "questionText": "In which district of Assam is the famous Kamakhya Temple located?",
+            "answerOption": ["Dibrugarh", "Kamrup", "Sivasagar", "Tinsukia"],
+            "correctAnswer": "Kamrup"
+          },
+          {
+            "questionText": "What is the largest city in Assam?",
+            "answerOption": ["Guwahati", "Jorhat", "Dibrugarh", "Silchar"],
+            "correctAnswer": "Guwahati"
+          },
+          {
+            "questionText": "Which national park in Assam is a UNESCO World Heritage Site and is known for its biodiversity?",
+            "answerOption": [
+              "Dibru-Saikhowa National Park",
+              "Nameri National Park",
+              "Manas National Park",
+              "Kaziranga National Park"
+            ],
+            "correctAnswer": "Manas National Park"
+          },
+          {
+            "questionText": "What is the name of the traditional Assamese boat, often used for transportation on the Brahmaputra River?",
+            "answerOption": ["Shikara", "Pirogue", "Hudro", "Donga"],
+            "correctAnswer": "Donga"
+          },
+          {
+            "questionText": "Which hill range separates Assam from the rest of India?",
+            "answerOption": [
+              "Western Ghats",
+              "Vindhya Range",
+              "Eastern Ghats",
+              "Khasi Hills"
+            ],
+            "correctAnswer": "Khasi Hills"
+          },
+          {
+            "questionText": "Which wildlife sanctuary in Assam is known for its population of wild water buffalo?",
+            "answerOption": [
+              "Nameri Wildlife Sanctuary",
+              "Dibru-Saikhowa Wildlife Sanctuary",
+              "Manas Wildlife Sanctuary",
+              "Laokhowa Wildlife Sanctuary"
+            ],
+            "correctAnswer": "Dibru-Saikhowa Wildlife Sanctuary"
+          },
+          {
+            "questionText": "Which river in Assam forms the border with Bangladesh for a significant part of its course?",
+            "answerOption": [
+              "Dhansiri River",
+              "Teesta River",
+              "Saraswati River",
+              "Barak River"
+            ],
+            "correctAnswer": "Barak River"
+          },
+          {
+            "questionText": "Which national park in Assam is known for its population of Indian elephants?",
+            "answerOption": [
+              "Manas National Park",
+              "Kaziranga National Park",
+              "Orang National Park",
+              "Pobitora Wildlife Sanctuary"
+            ],
+            "correctAnswer": "Orang National Park"
+          },
+          {
+            "questionText": "What is the name of the traditional Assamese rice beer?",
+            "answerOption": ["Arrack", "Sura", "Chhang", "Apong"],
+            "correctAnswer": "Apong"
+          },
+          {
+            "questionText": "Which town in Assam is famous for its annual Ambubachi Mela at the Kamakhya Temple?",
+            "answerOption": ["Tezpur", "Jorhat", "Dibrugarh", "Guwahati"],
+            "correctAnswer": "Guwahati"
+          },
+          {
+            "questionText": "Which river island in Assam is known for its silk production, particularly Muga silk?",
+            "answerOption": [
+              "Majuli",
+              "Umananda Island",
+              "Peacock Island",
+              "Nemcare Island"
+            ],
+            "correctAnswer": "Majuli"
+          },
+          {
+            "questionText": "Which is the largest river island in Assam?",
+            "answerOption": [
+              "Majuli",
+              "Umananda",
+              "Dibru-Saikhowa",
+              "Kaziranga"
+            ],
+            "correctAnswer": "Majuli"
+          },
+          {
+            "questionText": "Which national park in Assam is known for its population of the endangered Bengal tiger?",
+            "answerOption": [
+              "Kaziranga National Park",
+              "Nameri National Park",
+              "Manas National Park",
+              "Pobitora Wildlife Sanctuary"
+            ],
+            "correctAnswer": "Manas National Park"
+          },
+          {
+            "questionText": "Which river in Assam is known as the 'Sorrow of Assam'?",
+            "answerOption": ["Brahmaputra", "Barak", "Subansiri", "Dhansiri"],
+            "correctAnswer": "Brahmaputra"
+          },
+          {
+            "questionText": "In which district of Assam is the famous Tocklai Tea Research Institute located?",
+            "answerOption": ["Jorhat", "Dibrugarh", "Tinsukia", "Tezpur"],
+            "correctAnswer": "Jorhat"
+          },
+          {
+            "questionText": "Which wildlife sanctuary in Assam is known for its population of the Indian one-horned rhinoceros?",
+            "answerOption": [
+              "Kaziranga Wildlife Sanctuary",
+              "Manas Wildlife Sanctuary",
+              "Dibru-Saikhowa Wildlife Sanctuary",
+              "Laokhowa Wildlife Sanctuary"
+            ],
+            "correctAnswer": "Kaziranga Wildlife Sanctuary"
+          },
+          {
+            "questionText": "Which river in Assam is famous for its golden silk, known as 'Muga'?",
+            "answerOption": [
+              "Dhansiri",
+              "Bhramaputra",
+              "Subansiri",
+              "Jia Bhoroli"
+            ],
+            "correctAnswer": "Bhramaputra"
+          },
+          {
+            "questionText": "What is the name of the traditional Assamese dance performed with cymbals?",
+            "answerOption": ["Sattriya", "Bihu", "Sankirtana", "Bhortal"],
+            "correctAnswer": "Bhortal"
+          },
+          {
+            "questionText": "Which Assamese festival marks the Assamese New Year and is celebrated in mid-April?",
+            "answerOption": ["Bihu", "Rongali", "Sankranti", "Baishakhi"],
+            "correctAnswer": "Bihu"
+          },
+          {
+            "questionText": "Which district in Assam is known for its tea gardens and is often referred to as the 'Tea City of India'?",
+            "answerOption": ["Jorhat", "Dibrugarh", "Tinsukia", "Tezpur"],
+            "correctAnswer": "Dibrugarh"
+          },
+          {
+            "questionText": "What is the name of the wildlife sanctuary in Assam that is home to the endangered Hoolock Gibbon?",
+            "answerOption": [
+              "Pobitora Wildlife Sanctuary",
+              "Nameri Wildlife Sanctuary",
+              "Dibru-Saikhowa Wildlife Sanctuary",
+              "Manas Wildlife Sanctuary"
+            ],
+            "correctAnswer": "Nameri Wildlife Sanctuary"
+          },
+          {
+            "questionText": "Which river in Assam is known as the 'Green River'?",
+            "answerOption": ["Dhansiri", "Jia Bhoroli", "Kameng", "Manas"],
+            "correctAnswer": "Jia Bhoroli"
+          },
+          {
+            "questionText": "Which town in Assam is famous for its historical significance and the Kamakhya Temple?",
+            "answerOption": ["Guwahati", "Tezpur", "Sivasagar", "Dibrugarh"],
+            "correctAnswer": "Guwahati"
+          },
+          {
+            "questionText": "In which district of Assam is the famous wildlife sanctuary 'Laokhowa' located?",
+            "answerOption": ["Golaghat", "Nagaon", "Barpeta", "Dhubri"],
+            "correctAnswer": "Nagaon"
+          },
+          {
+            "questionText": "Which district in Assam is known for its blue hills and is often referred to as the 'Scotland of the East'?",
+            "answerOption": [
+              "Karbi Anglong",
+              "Dima Hasao",
+              "Cachar",
+              "Hailakandi"
+            ],
+            "correctAnswer": "Dima Hasao"
+          },
+          {
+            "questionText": "Which river in Assam is known as the 'River of Red Water' due to its red soil?",
+            "answerOption": ["Brahmaputra", "Subansiri", "Barak", "Kameng"],
+            "correctAnswer": "Barak"
+          },
+          {
+            "questionText": "Which district in Assam is known for its silk production, particularly Eri silk?",
+            "answerOption": ["Jorhat", "Dibrugarh", "Sivasagar", "Tinsukia"],
+            "correctAnswer": "Sivasagar"
+          },
+          {
+            "questionText": "Which Assamese festival marks the onset of the monsoon season and is celebrated in June?",
+            "answerOption": [
+              "Magh Bihu",
+              "Rongali Bihu",
+              "Kati Bihu",
+              "Bhogali Bihu"
+            ],
+            "correctAnswer": "Kati Bihu"
+          },
+          {
+            "questionText": "Which river in Assam forms the border with the Indian state of Arunachal Pradesh?",
+            "answerOption": ["Dhansiri", "Brahmaputra", "Kameng", "Subansiri"],
+            "correctAnswer": "Kameng"
+          },
+          {
+            "questionText": "Which district in Assam is known for its production of oranges?",
+            "answerOption": [
+              "Karbi Anglong",
+              "Dima Hasao",
+              "Cachar",
+              "Hailakandi"
+            ],
+            "correctAnswer": "Dima Hasao"
+          }
+        ]
+      }
+    },
+    "math": {
+      "profit&loss": {
+        "title": "math quiz",
+        "questions": [
+          {
+            "questionText": "A shopkeeper bought a shirt for ₹300 and sold it for ₹450. What is the profit percentage?",
+            "answerOption": ["25%", "30%", "50%", "60%"],
+            "correctAnswer": "50%"
+          },
+          {
+            "questionText": "A person bought a computer for ₹8,000 and sold it at a loss of 15%. What was the selling price of the computer?",
+            "answerOption": ["₹6,800", "₹7,200", "₹7,600", "₹8,200"],
+            "correctAnswer": "₹6,800"
+          },
+          {
+            "questionText": "If the cost price of an item is ₹120 and the selling price is ₹150, what is the profit percentage?",
+            "answerOption": ["20%", "25%", "30%", "35%"],
+            "correctAnswer": "25%"
+          },
+          {
+            "questionText": "A vendor bought 50 pens for ₹100 and sold them for ₹150. What is the profit percentage?",
+            "answerOption": ["30%", "40%", "50%", "60%"],
+            "correctAnswer": "50%"
+          },
+          {
+            "questionText": "A mobile phone was bought for ₹5,000 and sold for ₹4,000. What is the loss percentage?",
+            "answerOption": ["5%", "10%", "15%", "20%"],
+            "correctAnswer": "20%"
+          },
+          {
+            "questionText": "A shirt is sold for ₹180 after a discount of 10%. What was the original selling price?",
+            "answerOption": ["₹160", "₹190", "₹200", "₹220"],
+            "correctAnswer": "₹200"
+          },
+          {
+            "questionText": "A bike was bought for ₹20,000 and sold at a profit of 25%. What was the selling price of the bike?",
+            "answerOption": ["₹22,500", "₹25,000", "₹27,500", "₹30,000"],
+            "correctAnswer": "₹25,000"
+          },
+          {
+            "questionText": "If an item is sold at a loss of 20% and the selling price is ₹80, what is the cost price?",
+            "answerOption": ["₹80", "₹100", "₹120", "₹150"],
+            "correctAnswer": "₹100"
+          },
+          {
+            "questionText": "A vendor sold 60% of his stock and made a profit of 20%. What was the profit percentage on the entire stock?",
+            "answerOption": ["10%", "12%", "15%", "18%"],
+            "correctAnswer": "12%"
+          },
+          {
+            "questionText": "A car was sold for ₹12,000 with a loss of 10%. What was the cost price of the car?",
+            "answerOption": ["₹10,000", "₹11,000", "₹12,000", "₹13,000"],
+            "correctAnswer": "₹13,000"
+          },
+          {
+            "questionText": "If a watch is sold for ₹180 at a loss of 10%, what is the cost price of the watch?",
+            "answerOption": ["₹180", "₹200", "₹220", "₹240"],
+            "correctAnswer": "₹200"
+          },
+          {
+            "questionText": "A retailer marked the price of a shirt as ₹600 and sold it for ₹480. What is the discount percentage?",
+            "answerOption": ["10%", "15%", "20%", "25%"],
+            "correctAnswer": "20%"
+          },
+          {
+            "questionText": "A refrigerator was sold for ₹8,000 with a profit of 25%. What was the cost price of the refrigerator?",
+            "answerOption": ["₹6,400", "₹6,800", "₹7,200", "₹7,600"],
+            "correctAnswer": "₹6,800"
+          },
+          {
+            "questionText": "A trader sold 75% of his goods at a profit of 30% and the rest at a loss of 10%. What was the overall profit percentage?",
+            "answerOption": ["6%", "8%", "10%", "12%"],
+            "correctAnswer": "8%"
+          },
+          {
+            "questionText": "A mobile phone was sold for ₹2,500 with a profit of 20%. What was the cost price of the mobile phone?",
+            "answerOption": ["₹1,800", "₹2,000", "₹2,100"]
+          }
+        ]
+      },
+      "si&ci": {
+        "questions": [
+          {
+            "questionText": "Principal amount is ₹5,000, rate of interest is 8% per annum, and time is 2 years. What is the Simple Interest?",
+            "answerOption": ["₹800", "₹1,000", "₹1,200", "₹1,600"],
+            "correctAnswer": "₹800"
+          },
+          {
+            "questionText": "If the Simple Interest on a certain amount for 3 years at 6% per annum is ₹720, what is the principal amount?",
+            "answerOption": ["₹3,000", "₹4,000", "₹5,000", "₹6,000"],
+            "correctAnswer": "₹3,000"
+          },
+          {
+            "questionText": "At what rate of interest will a sum of ₹4,500 earn ₹720 as Simple Interest in 3 years?",
+            "answerOption": ["6%", "8%", "10%", "12%"],
+            "correctAnswer": "8%"
+          },
+          {
+            "questionText": "The principal amount is ₹7,000, the rate of interest is 5%, and the Simple Interest is ₹1,750. What is the time period in years?",
+            "answerOption": ["2 years", "3 years", "4 years", "5 years"],
+            "correctAnswer": "4 years"
+          },
+          {
+            "questionText": "If a sum of ₹8,000 amounts to ₹10,240 in 2 years at Compound Interest, what is the rate of interest per annum?",
+            "answerOption": ["4%", "5%", "6%", "8%"],
+            "correctAnswer": "6%"
+          },
+          {
+            "questionText": "What is the Compound Interest on ₹6,000 for 2 years at 10% per annum, compounded annually?",
+            "answerOption": ["₹1,100", "₹1,200", "₹1,300", "₹1,400"],
+            "correctAnswer": "₹1,210"
+          },
+          {
+            "questionText": "If the difference between the Compound Interest and the Simple Interest on a certain sum for 2 years at 8% per annum is ₹160, find the principal amount.",
+            "answerOption": ["₹3,000", "₹3,200", "₹3,400", "₹3,600"],
+            "correctAnswer": "₹3,200"
+          },
+          {
+            "questionText": "A sum of ₹15,000 is invested in a bank for 3 years at an annual interest rate of 12%, compounded annually. What will be the total amount after 3 years?",
+            "answerOption": ["₹19,200", "₹19,800", "₹20,400", "₹21,000"],
+            "correctAnswer": "₹19,800"
+          },
+          {
+            "questionText": "At what rate of interest per annum will a sum of ₹2,500 become ₹2,700 in 2 years when compounded annually?",
+            "answerOption": ["6%", "8%", "10%", "12%"],
+            "correctAnswer": "8%"
+          },
+          {
+            "questionText": "The principal amount is ₹10,000, the rate of interest is 4%, and the time period is 3 years. What is the Compound Interest?",
+            "answerOption": ["₹1,216", "₹1,224", "₹1,232", "₹1,240"],
+            "correctAnswer": "₹1,216"
+          },
+          {
+            "questionText": "A sum of ₹12,000 is invested in a bank for 2 years at an annual interest rate of 10%, compounded annually. What will be the amount after 2 years?",
+            "answerOption": ["₹14,500", "₹14,800", "₹15,100", "₹15,400"],
+            "correctAnswer": "₹14,800"
+          },
+          {
+            "questionText": "If a certain sum becomes ₹12,544 in 2 years at 8% per annum, compounded annually, what was the principal amount?",
+            "answerOption": ["₹11,500", "₹11,800", "₹12,000", "₹12,200"],
+            "correctAnswer": "₹11,800"
+          },
+          {
+            "questionText": "The principal amount is ₹5,000, the rate of interest is 12%, and the Compound Interest is ₹660. What is the time period in years?",
+            "answerOption": ["1 year", "2 years", "3 years", "4 years"],
+            "correctAnswer": "3 years"
+          },
+          {
+            "questionText": "A sum of ₹6,000 is invested at 7% per annum, compounded annually. What will be the amount after 3 years?",
+            "answerOption": ["₹7,345", "₹7,735", "₹8,125", "₹8,515"],
+            "correctAnswer": "₹7"
+          }
+        ]
+      },
+      "speed&distance": {
+        "questions": [
+          {
+            "questionText": "A car travels a distance of 240 kilometers in 4 hours. What is its speed in kilometers per hour?",
+            "answerOption": ["60 km/h", "40 km/h", "80 km/h", "120 km/h"],
+            "correctAnswer": "60 km/h"
+          },
+          {
+            "questionText": "A train covers a distance of 450 kilometers in 5 hours. What is its speed in meters per second?",
+            "answerOption": ["20 m/s", "25 m/s", "30 m/s", "40 m/s"],
+            "correctAnswer": "20 m/s"
+          },
+          {
+            "questionText": "If a person walks at a speed of 5 km/h, how long will it take to cover a distance of 25 kilometers?",
+            "answerOption": ["3 hours", "4 hours", "5 hours", "6 hours"],
+            "correctAnswer": "5 hours"
+          },
+          {
+            "questionText": "A bus travels at an average speed of 60 km/h for the first half of its journey and 40 km/h for the second half. What is its average speed for the entire journey?",
+            "answerOption": ["45 km/h", "48 km/h", "50 km/h", "55 km/h"],
+            "correctAnswer": "48 km/h"
+          },
+          {
+            "questionText": "A cyclist covers a distance of 120 kilometers in 6 hours. What is the speed of the cyclist in meters per minute?",
+            "answerOption": [
+              "200 m/min",
+              "300 m/min",
+              "400 m/min",
+              "500 m/min"
+            ],
+            "correctAnswer": "300 m/min"
+          },
+          {
+            "questionText": "A car travels a distance of 360 miles in 6 hours. What is its speed in miles per hour (mph)?",
+            "answerOption": ["40 mph", "60 mph", "80 mph", "120 mph"],
+            "correctAnswer": "60 mph"
+          },
+          {
+            "questionText": "A train travels at a speed of 90 km/h. How far will it travel in 3.5 hours?",
+            "answerOption": ["270 km", "315 km", "330 km", "350 km"],
+            "correctAnswer": "315 km"
+          },
+          {
+            "questionText": "A motorbike covers a distance of 150 kilometers in 2.5 hours. What is its speed in meters per second?",
+            "answerOption": ["20 m/s", "30 m/s", "40 m/s", "60 m/s"],
+            "correctAnswer": "30 m/s"
+          },
+          {
+            "questionText": "A jogger covers a distance of 8 kilometers in 40 minutes. What is the speed of the jogger in kilometers per hour?",
+            "answerOption": ["10 km/h", "12 km/h", "14 km/h", "16 km/h"],
+            "correctAnswer": "12 km/h"
+          },
+          {
+            "questionText": "A car travels a distance of 300 meters in 20 seconds. What is its speed in kilometers per hour?",
+            "answerOption": ["45 km/h", "54 km/h", "60 km/h", "72 km/h"],
+            "correctAnswer": "54 km/h"
+          },
+          {
+            "questionText": "A bus covers a distance of 180 miles in 4 hours. What is its speed in miles per hour (mph)?",
+            "answerOption": ["40 mph", "45 mph", "50 mph", "60 mph"],
+            "correctAnswer": "45 mph"
+          },
+          {
+            "questionText": "If a person walks at a speed of 6 km/h, how long will it take to cover a distance of 12 kilometers?",
+            "answerOption": ["1 hour", "2 hours", "3 hours", "4 hours"],
+            "correctAnswer": "2 hours"
+          },
+          {
+            "questionText": "A train travels at a constant speed of 120 km/h. How far will it travel in 2.5 hours?",
+            "answerOption": ["225 km", "250 km", "275 km", "300 km"],
+            "correctAnswer": "300 km"
+          },
+          {
+            "questionText": "A cyclist covers a distance of 15 kilometers in 45 minutes. What is the speed of the cyclist in kilometers per hour?",
+            "answerOption": ["20 km/h", "30 km/h", "40 km/h", "45 km/h"],
+            "correctAnswer": "20 km/h"
+          },
+          {
+            "questionText": "A car travels a distance of 420 miles in 7 hours. What is its speed in miles per hour (mph)?",
+            "answerOption": ["50 mph", "60 mph", "70 mph", "80 mph"],
+            "correctAnswer": "60 mph"
+          },
+          {
+            "questionText": "A bus covers a distance of 360 kilometers in 6 hours. What is its speed in meters per second?",
+            "answerOption": ["20 m/s", "30 m/s", "40 m/s", "60 m/s"],
+            "correctAnswer": "30 m/s"
+          },
+          {
+            "questionText": "If a person runs at a speed of 12 km/h, how long will it take to cover a distance of 24 kilometers?",
+            "answerOption": ["1 hour", "2 hours", "3 hours", "4 hours"],
+            "correctAnswer": "2 hours"
+          },
+          {
+            "questionText": "A train travels at a speed of 100 km/h. How far will it travel in 2 hours and 30 minutes?",
+            "answerOption": ["225 km", "250 km", "275 km", "300 km"],
+            "correctAnswer": "250 km"
+          },
+          {
+            "questionText": "A cyclist covers a distance of 30 kilometers in 2 hours. What is the speed of the cyclist in meters per second?",
+            "answerOption": ["4 m/s", "5 m/s", "6 m/s", "7.5 m/s"],
+            "correctAnswer": "5 m/s"
+          },
+          {
+            "questionText": "A car travels a distance of 480 miles in 8 hours. What is its speed in miles per hour (mph)?",
+            "answerOption": ["40 mph", "50 mph", "60 mph", "70 mph"],
+            "correctAnswer": "60 mph"
+          }
+        ]
+      },
+      "mensuration": {
+        "questions": [
+          {
+            "questionText": "Find the area of a rectangle with a length of 12 meters and a width of 8 meters.",
+            "answerOption": [
+              "64 sq. meters",
+              "80 sq. meters",
+              "96 sq. meters",
+              "100 sq. meters"
+            ],
+            "correctAnswer": "96 sq. meters"
+          },
+          {
+            "questionText": "What is the perimeter of a square with a side length of 5 centimeters?",
+            "answerOption": ["10 cm", "15 cm", "20 cm", "25 cm"],
+            "correctAnswer": "20 cm"
+          },
+          {
+            "questionText": "A circular garden has a radius of 7 meters. What is its approximate area?",
+            "answerOption": [
+              "22 sq. meters",
+              "44 sq. meters",
+              "154 sq. meters",
+              "154 sq. centimeters"
+            ],
+            "correctAnswer": "154 sq. meters"
+          },
+          {
+            "questionText": "If the diameter of a circle is 10 centimeters, what is its circumference?",
+            "answerOption": ["10 cm", "20 cm", "31.4 cm", "62.8 cm"],
+            "correctAnswer": "31.4 cm"
+          },
+          {
+            "questionText": "Find the volume of a cube with an edge length of 6 centimeters.",
+            "answerOption": [
+              "12 cu. cm",
+              "36 cu. cm",
+              "72 cu. cm",
+              "216 cu. cm"
+            ],
+            "correctAnswer": "216 cu. cm"
+          },
+          {
+            "questionText": "The base of a triangular pyramid has a width of 5 meters and a height of 8 meters. Find its volume.",
+            "answerOption": [
+              "10 cu. meters",
+              "20 cu. meters",
+              "40 cu. meters",
+              "80 cu. meters"
+            ],
+            "correctAnswer": "80 cu. meters"
+          },
+          {
+            "questionText": "What is the surface area of a cylinder with a radius of 4 centimeters and a height of 10 centimeters?",
+            "answerOption": [
+              "64 sq. cm",
+              "128 sq. cm",
+              "160 sq. cm",
+              "320 sq. cm"
+            ],
+            "correctAnswer": "320 sq. cm"
+          },
+          {
+            "questionText": "A rectangular pool is 12 meters long, 6 meters wide, and 2 meters deep. What is its volume?",
+            "answerOption": [
+              "24 cu. meters",
+              "72 cu. meters",
+              "144 cu. meters",
+              "288 cu. meters"
+            ],
+            "correctAnswer": "144 cu. meters"
+          },
+          {
+            "questionText": "Find the area of a trapezoid with a height of 8 centimeters, a base of 12 centimeters, and a top side of 6 centimeters.",
+            "answerOption": [
+              "48 sq. cm",
+              "54 sq. cm",
+              "60 sq. cm",
+              "72 sq. cm"
+            ],
+            "correctAnswer": "60 sq. cm"
+          },
+          {
+            "questionText": "The circumference of a circle is 66 centimeters. What is its radius?",
+            "answerOption": ["11 cm", "22 cm", "33 cm", "44 cm"],
+            "correctAnswer": "11 cm"
+          },
+          {
+            "questionText": "A triangular garden has sides of lengths 8 meters, 15 meters, and 17 meters. What is its area?",
+            "answerOption": [
+              "60 sq. meters",
+              "64 sq. meters",
+              "68 sq. meters",
+              "72 sq. meters"
+            ],
+            "correctAnswer": "60 sq. meters"
+          },
+          {
+            "questionText": "Find the volume of a sphere with a radius of 3 centimeters.",
+            "answerOption": [
+              "18 cu. cm",
+              "27 cu. cm",
+              "36 cu. cm",
+              "54 cu. cm"
+            ],
+            "correctAnswer": "36 cu. cm"
+          },
+          {
+            "questionText": "A cylindrical tank has a radius of 5 meters and a height of 10 meters. What is its volume?",
+            "answerOption": [
+              "100 cu. meters",
+              "250 cu. meters",
+              "314 cu. meters",
+              "500 cu. meters"
+            ],
+            "correctAnswer": "314 cu. meters"
+          },
+          {
+            "questionText": "The diagonal of a square is 10 centimeters. What is the side length of the square?",
+            "answerOption": ["5 cm", "7 cm", "8 cm", "10 cm"],
+            "correctAnswer": "7 cm"
+          },
+          {
+            "questionText": "Find the area of a parallelogram with a base of 6 meters and a height of 9 meters.",
+            "answerOption": [
+              "24 sq. meters",
+              "36 sq. meters",
+              "54 sq. meters",
+              "72 sq. meters"
+            ],
+            "correctAnswer": "54 sq. meters"
+          },
+          {
+            "questionText": "A cone has a radius of 4 centimeters and a height of 6 centimeters. What is its volume?",
+            "answerOption": [
+              "16 cu. cm",
+              "24 cu. cm",
+              "32 cu. cm",
+              "48 cu. cm"
+            ],
+            "correctAnswer": "32 cu. cm"
+          },
+          {
+            "questionText": "The base of a triangular prism has an area of 36 sq. centimeters, and its height is 10 centimeters. What is its volume?",
+            "answerOption": [
+              "36 cu. cm",
+              "72 cu. cm",
+              "180 cu. cm",
+              "360 cu. cm"
+            ],
+            "correctAnswer": "360 cu. cm"
+          },
+          {
+            "questionText": "Find the perimeter of a hexagon with sides of length 4 centimeters each.",
+            "answerOption": ["16 cm", "20 cm", "24 cm", "32 cm"],
+            "correctAnswer": "24 cm"
+          },
+          {
+            "questionText": "A rectangular box has dimensions of 5 cm by 7 cm by 10 cm. What is its volume?",
+            "answerOption": [
+              "200 cu. cm",
+              "350 cu. cm",
+              "500 cu. cm",
+              "700 cu. cm"
+            ],
+            "correctAnswer": "350 cu. cm"
+          },
+          {
+            "questionText": "The circumference of a circle is 44 centimeters. What is its diameter?",
+            "answerOption": ["7 cm", "11 cm", "14 cm", "22 cm"],
+            "correctAnswer": "14 cm"
+          },
+          {
+            "questionText": "Find the area of a rhombus with diagonals of lengths 8 cm and 10 cm.",
+            "answerOption": [
+              "32 sq. cm",
+              "40 sq. cm",
+              "48 sq. cm",
+              "60 sq. cm"
+            ],
+            "correctAnswer": "40 sq. cm"
+          }
+        ]
+      },
+
+      "exam26sept": {
+        "questions": [
+          {
+            "questionText": "A watch sold for Rs.1440 at 10 % loss, at what price it should be sold so as to earn 15% profit?",
+            "answerOption": ["(A) 1820", "(B) 1830", "(C) 1840", "(D) 1850"],
+            "correctAnswer": "(C) 1840"
+          },
+          {
+            "questionText": "A reduction of 20% in the price of salt enabled a purchaser to obtain 4 kg. more for Rs.100. The reduced price of salt per kg is :",
+            "answerOption": [
+              "(A) Rs.6.25",
+              "(B) Rs.6.50",
+              "(C) Rs.4",
+              "(D) Rs.5"
+            ],
+            "correctAnswer": "(D) Rs.5"
+          },
+          {
+            "questionText": "A dishonest dealer professes to sell his goods at cost price, but he uses a weight of 800 gm. For one kg. Find his gain percent?",
+            "answerOption": ["(A) 20", "(B) 25", "(C) 40", "(D) 10"],
+            "correctAnswer": "(B) 25"
+          },
+          {
+            "questionText": "A person buys oranges 8 for Rs 5 and sells them at 5 Rs 8. Find the profit or loss percentage in the whole transaction.",
+            "answerOption": [
+              "(A) 100% Profit",
+              "(B) 150% Loss",
+              "(C) 146% Profit",
+              "(D) 156% Profit"
+            ],
+            "correctAnswer": "(D) 156% Profit"
+          },
+          {
+            "questionText": "The marked price of a certain object is Rs 10,000. Shopkeeper gives three consecutive discounts of 10%, 20%, 30%. Find the selling price of the object.",
+            "answerOption": [
+              "(A) Rs 6000",
+              "(B) Rs. 6340",
+              "(C) Rs 5040",
+              "(D) Rs 7000"
+            ],
+            "correctAnswer": "(C) Rs 5040"
+          },
+          {
+            "questionText": "A man took a loan from a bank at the rate of 12% p.a. simple interest. After 3 years he has to pay Rs 5400 interest only for the period. The principal amount borrowed by him was: Rs",
+            "answerOption": ["2000", "10000", "15000", "20000"],
+            "correctAnswer": "15000"
+          },
+          {
+            "questionText": "If the sum of money of simple interest doubles in 12 years, the rate of interest per annum is",
+            "answerOption": ["16 2/3 %", "7.5%", "8 1/3 %", "10%"],
+            "correctAnswer": "8 1/3 %"
+          },
+          {
+            "questionText": "What sum of money will amount to Rs. 520 in 5 years and to Rs. 568 in 7 years at Simple Interest",
+            "answerOption": ["400", "120", "510", "220"],
+            "correctAnswer": "400"
+          },
+          {
+            "questionText": "Calculate the amount on Rs. 37500 at the rate of 8% per annum compounded half-yearly for 1 1/2 years.",
+            "answerOption": ["42182.40", "4200", "42120", "4281240"],
+            "correctAnswer": "42182.40"
+          },
+          {
+            "questionText": "Find the CI on Rs. 9375 in 2 years, the rate of interest being 2% for the first year and 4% for the second year.",
+            "answerOption": ["570", "1140", "1155", "670"],
+            "correctAnswer": "570"
+          },
+          {
+            "questionText": "What will be the amount of Rs. 2560 at the rate of compound interest of 25% for 6 months, if interest is calculated per quarter?",
+            "answerOption": ["3320", "8290", "2980", "2890"],
+            "correctAnswer": "2890"
+          },
+          {
+            "questionText": "A car travels a distance of 360 km at a constant speed of 90 km/h. How long does it take to complete the journey?",
+            "answerOption": [
+              "(A) 2 hours",
+              "(B) 3 hours",
+              "(C) 4 hours",
+              "(D) 5 hours"
+            ],
+            "correctAnswer": "(C) 4 hours"
+          },
+          {
+            "questionText": "A train covers a distance of 480 km in 6 hours. What is its speed in km/h?",
+            "answerOption": [
+              "(A) 80 km/h",
+              "(B) 90 km/h",
+              "(C) 100 km/h",
+              "(D) 120 km/h"
+            ],
+            "correctAnswer": "(A) 80 km/h"
+          },
+          {
+            "questionText": "If a person walks at a speed of 5 km/h, how long will it take to cover a distance of 15 km?",
+            "answerOption": [
+              "(A) 2 hours",
+              "(B) 3 hours",
+              "(C) 4 hours",
+              "(D) 5 hours"
+            ],
+            "correctAnswer": "(B) 3 hours"
+          },
+          {
+            "questionText": "A cyclist travels a distance of 25 km at a speed of 20 km/h. How long does the journey take?",
+            "answerOption": [
+              "(A) 1 hour",
+              "(B) 1.25 hours",
+              "(C) 1.5 hours",
+              "(D) 2 hours"
+            ],
+            "correctAnswer": "(B) 1.25 hours"
+          },
+          {
+            "questionText": "A bus travels at an average speed of 60 km/h for the first 3 hours and at a speed of 75 km/h for the next 2 hours. What is the total distance covered by the bus?",
+            "answerOption": [
+              "(A) 270 km",
+              "(B) 285 km",
+              "(C) 330 km",
+              "(D) 315 km"
+            ],
+            "correctAnswer": "(B) 330 km"
+          },
+          {
+            "questionText": "Find the area of a rectangle with length 10 cm and width 5 cm.",
+            "answerOption": [
+              "(A) 20 sq. cm",
+              "(B) 25 sq. cm",
+              "(C) 30 sq. cm",
+              "(D) 50 sq. cm"
+            ],
+            "correctAnswer": "(B) 50 sq. cm"
+          },
+          {
+            "questionText": "The circumference of a circle is 44 cm. What is its radius?",
+            "answerOption": ["(A) 7 cm", "(B) 11 cm", "(C) 14 cm", "(D) 22 cm"],
+            "correctAnswer": "(A) 7 cm"
+          },
+          {
+            "questionText": "The base of a triangle is 12 cm, and its height is 8 cm. Calculate its area.",
+            "answerOption": [
+              "(A) 48 sq. cm",
+              "(B) 64 sq. cm",
+              "(C) 96 sq. cm",
+              "(D) 128 sq. cm"
+            ],
+            "correctAnswer": "(A) 48 sq. cm"
+          },
+          {
+            "questionText": "Find the volume of a cube with a side length of 6 cm.",
+            "answerOption": [
+              "(A) 36 cu. cm",
+              "(B) 72 cu. cm",
+              "(C) 108 cu. cm",
+              "(D) 216 cu. cm"
+            ],
+            "correctAnswer": "(D) 216 cu. cm"
+          },
+          {
+            "questionText": "The perimeter of a square is 20 cm. What is its area?",
+            "answerOption": [
+              "(A) 16 sq. cm",
+              "(B) 20 sq. cm",
+              "(C) 25 sq. cm",
+              "(D) 36 sq. cm"
+            ],
+            "correctAnswer": "(C) 25 sq. cm"
+          }
+        ]
+      }
+    }
+  }
+}
